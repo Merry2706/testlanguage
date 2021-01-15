@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-  <!-- kommentar -->
-  <string name="title">Begin hier </string>
-  <string name="akku">De accu is bijna leeg! \nVerwijder \"de accu\" en laad deze op.\n Daarmee help je de levensduur te verlengen.</string>
-  <string name="forget">De vehicle vergeten</string>
-</resources>

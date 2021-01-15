@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- kommentar -->
+  <string name="title">Los geht\'s</string>
+  <string name="akku">Der Akku ist fast leer!\n Bitte entferne \"den Akku\" und lade ihn auf.\n Das hilft, die Lebensdauer des Akkus zu verlängern.</string>
+  <string name="forget">fahrzeug entfernen%d</string>
+</resources>

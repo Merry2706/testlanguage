@@ -1,4 +1,5 @@
-/* kommentar */
-"title" = "Let's go ";
-"akku" = "The battery is almost empty!\n\n Please remove \"the battery\" and charge it.\n \n This helps to extend its lifetime.";
-"forget" = "Forget vehicle%d";
+"title" = "C'est parti";
+"akku" = "La batterie est presque vide !\
+ Retire la \"batterie\" pour la recharger. \
+Cela contribue à augmenter sa durée de vie.";
+"forget" = "Ignorer l'vehicle en cours%d";

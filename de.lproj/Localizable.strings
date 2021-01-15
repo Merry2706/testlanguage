@@ -1,4 +1,5 @@
-/* kommentar */
 "title" = "Los geht's";
-"akku" = "Der Akku ist fast leer!\n Bitte entferne \"den Akku\" und lade ihn auf.\n Das hilft, die Lebensdauer des Akkus zu verlängern.";
-"forget" = "test testtest";
+"akku" = "Der Akku ist fast leer!\
+ Bitte entferne \"den Akku\" und lade ihn auf.\
+ Das hilft, die Lebensdauer des Akkus zu verlängern.";
+"forget" = "test ";
